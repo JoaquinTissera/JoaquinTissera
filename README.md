@@ -22,7 +22,7 @@
 <img src="https://github.com/reduxjs/redux/blob/master/logo/logo.svg" alt="redux" width="40" height="40"/> </a> 
 </p>
 
-[![tomas2204's github stats](https://github-readme-stats.vercel.app/api?username=tomas2204)](https://github.com/anuraghazra/github-readme-stats)
+[![Monotissera44's github stats](https://github-readme-stats.vercel.app/api?username=Monotissera44)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tomas2204/tomas2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
