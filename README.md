@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Joaquin Tissera</h1>
 <h3 align="center">Un apasionado desarrollador web Full stack de Argentina</h3>
 
-- 🔭 Aqui mi e-commerce [E-commerce](https://github.com/Monotissera44)
+- 🔭 Aqui mi e-commerce [E-commerce](https://github.com/JoaquinTissera/ecommerce-ft09-g01)
 
 
 <h3 align="left">Conéctate con mi:</h3>
